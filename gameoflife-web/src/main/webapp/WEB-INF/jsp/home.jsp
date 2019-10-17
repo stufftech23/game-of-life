@@ -4,7 +4,7 @@
 <%@page import="java.util.Properties" %>
 <html>
 <head>
-    <title>The Game Of Life</title>
+    <title>The Game Of nic</title>
     <!--  TODO: Don't inline this -->
     <style type="text/css">
         h2 {
@@ -14,7 +14,7 @@
 
         .intro {
             font-family: sans-serif;
-            background: rgb(200, 200, 200);
+            background: rgb(120, 120, 100);
             border: 1pt rgb(150, 150, 150) solid;
             padding: 8px;
             margin: 4px;
